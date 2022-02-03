@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Orientation Check</string>
+    <string name="bait_button_text" translatable="false">Click if you\'re not gay</string>
+</resources>
